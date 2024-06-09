@@ -9,7 +9,7 @@
 2. Компании из WEIRD стран (WEIRD = Western, educated, industrialized, rich and democratic) ушло в пропорции больше, чем из не WEIRD стран. 
 3. Индустрия, в которой работает компания, существенно влияет на то, уйдет компания или нет, и как скоро. Компании, не из производственного/физического сектора уходят чаще и быстрее. 
 
-**Спойлеры** (результаты проверки гипотез)
+**Спойлеры** (результаты проверки гипотез, подробнее можно прочитать в гугл колаб)
 1. Неправда
 2. Правда
 3. Правда, но есть много деталей.
@@ -22,7 +22,7 @@
 - Requests
 
 Обработка данных 
-- Pandas (to_datetime, Timestamp, merge, DataFrame, quantile, sort_values, value_counts, reset_index)
+- Pandas (groupby, to_datetime, Timestamp, merge, DataFrame, quantile, sort_values, value_counts, reset_index)
 - re
 
  Работа с геоданными 
@@ -30,6 +30,7 @@
 
 Визуализация данных
 - Matplotlib (scatter, plot, subplots)
+- Написала ручками код для столбчатой диаграммы с накоплением 
 
   
 
